@@ -33,6 +33,7 @@ resolv-retry infinite
 nobind
 persist-key
 persist-tun
+cipher AES-128-CBC
 comp-lzo
 verb 3
 ca ca.crt
